@@ -1,3 +1,9 @@
+
+**NOTE: BEFORE RUNNING THIS TEST PLEASE START THE APP (Run yarn && yarn start to start the app)
+GIT CLONE https://github.com/ecsdigital/qa-tech-test.git
+AND Run yarn && yarn start to start the app**
+
+
 Array Challenge Implementation in Ruby
 
 ## Cloning repository
@@ -45,3 +51,4 @@ To run the tests and produce an HTML report, execute:
 	cucumber -f pretty -f html -o test-report.html features/test.feature
 
 This will create an html test report. Right click on it and you can open the report in the browser
+
