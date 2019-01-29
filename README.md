@@ -16,11 +16,16 @@ features/support/env.rb : configures the driver and the hostname to use
 
 Install Ruby
 
-Once Ruby is installed then we need to install few gems
+Once Ruby is installed then we need to install few gems:
+
 gem install cucumber
+
 gem install capybara
+
 gem install selenium-webdriver
+
 gem install rspec
+
 gem install rails
 
 gem install bundler
