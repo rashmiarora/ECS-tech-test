@@ -1,4 +1,4 @@
-Feature: As a user I want to find the return the index of the array
+Feature: As a user I want to return the index of the array
   where the sum of integers at the index on the left is equal to the sum of integers on the right.
 
 
